@@ -98,7 +98,6 @@ const rental_propeties = [
 //Declaracion de variables
 const sale_section = document.querySelector("#for_sale")
 const rent_section = document.querySelector("#for_rent")
-const rent_page = document.querySelector("#rent_main") //propiedades_alquiles.html
 
 let htmlMainSale = ""
 let htmlMainRent = ""
