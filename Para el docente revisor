@@ -1,0 +1,15 @@
+Muy buenas tardes estimado, Se que entregar dos encargo con retraso
+es muy mal visto, y dar algun tipo de excusa no viene a lugar.
+Por lo tanto quiero agradecer por adelantado el tiempo invertido
+en revisar mi encargo atrasado. Para poder facilitar la revision
+hice comments en el proyecto para identificar de facil manera los
+elementos del proyecto.
+Con mis conocimientos no podia usar solo un js para los 3 html
+sin que me dieran errores, y al ver que en la pauta de evalucion
+no exige explicitamente el uso de un solo archivo js tube que crear 
+3 js diferentes;
+-Script.js para el index
+-alguiler.js para propiedades_alquiler.html
+-ventas.js para propiedades_ventas.html
+
+Nuevamente muhas gracias de antemano.
